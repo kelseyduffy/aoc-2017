@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+c/.DS_Store
+.DS_Store
+*.pbxproj
